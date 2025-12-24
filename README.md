@@ -4,6 +4,8 @@ A modern, responsive chatbot interface powered by Google's Gemini AI API. Featur
 
 ![ANK Chatbot](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+<img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/db2107a9-888b-43c1-ba57-184d113f9f0d" />
+
 
 ## Features
 
